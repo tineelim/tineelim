@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tasabil Islalm</h1>
+<h1 align="center">Hi, I'm Tasabil Islalm Neelim</h1>
 <h3 align="center">A student of Bangladesh University of Business and Technology.</h3>
 
 - 🌱 I’m currently learning **C++**
